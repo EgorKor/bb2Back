@@ -1,0 +1,248 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Egor\\Desktop\\BB2Backed\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC16A74-6DFD-4545-84C7-61E9178176FE}|BB2Backed\\BB2Backed.csproj|c:\\users\\egor\\desktop\\bb2backed\\bb2backed\\controllers\\generationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DC16A74-6DFD-4545-84C7-61E9178176FE}|BB2Backed\\BB2Backed.csproj|solutionrelative:bb2backed\\controllers\\generationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC16A74-6DFD-4545-84C7-61E9178176FE}|BB2Backed\\BB2Backed.csproj|c:\\users\\egor\\desktop\\bb2backed\\bb2backed\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0DC16A74-6DFD-4545-84C7-61E9178176FE}|BB2Backed\\BB2Backed.csproj|solutionrelative:bb2backed\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC16A74-6DFD-4545-84C7-61E9178176FE}|BB2Backed\\BB2Backed.csproj|c:\\users\\egor\\desktop\\bb2backed\\bb2backed\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0DC16A74-6DFD-4545-84C7-61E9178176FE}|BB2Backed\\BB2Backed.csproj|solutionrelative:bb2backed\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC16A74-6DFD-4545-84C7-61E9178176FE}|BB2Backed\\BB2Backed.csproj|c:\\users\\egor\\desktop\\bb2backed\\bb2backed\\bb2backed.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{0DC16A74-6DFD-4545-84C7-61E9178176FE}|BB2Backed\\BB2Backed.csproj|solutionrelative:bb2backed\\bb2backed.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC16A74-6DFD-4545-84C7-61E9178176FE}|BB2Backed\\BB2Backed.csproj|c:\\users\\egor\\desktop\\bb2backed\\bb2backed\\service\\realgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DC16A74-6DFD-4545-84C7-61E9178176FE}|BB2Backed\\BB2Backed.csproj|solutionrelative:bb2backed\\service\\realgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC16A74-6DFD-4545-84C7-61E9178176FE}|BB2Backed\\BB2Backed.csproj|c:\\users\\egor\\desktop\\bb2backed\\bb2backed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DC16A74-6DFD-4545-84C7-61E9178176FE}|BB2Backed\\BB2Backed.csproj|solutionrelative:bb2backed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC16A74-6DFD-4545-84C7-61E9178176FE}|BB2Backed\\BB2Backed.csproj|c:\\users\\egor\\desktop\\bb2backed\\bb2backed\\bb2backed.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0DC16A74-6DFD-4545-84C7-61E9178176FE}|BB2Backed\\BB2Backed.csproj|solutionrelative:bb2backed\\bb2backed.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC16A74-6DFD-4545-84C7-61E9178176FE}|BB2Backed\\BB2Backed.csproj|c:\\users\\egor\\desktop\\bb2backed\\bb2backed\\dto\\equationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DC16A74-6DFD-4545-84C7-61E9178176FE}|BB2Backed\\BB2Backed.csproj|solutionrelative:bb2backed\\dto\\equationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC16A74-6DFD-4545-84C7-61E9178176FE}|BB2Backed\\BB2Backed.csproj|c:\\users\\egor\\desktop\\bb2backed\\bb2backed\\dto\\inequalitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DC16A74-6DFD-4545-84C7-61E9178176FE}|BB2Backed\\BB2Backed.csproj|solutionrelative:bb2backed\\dto\\inequalitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC16A74-6DFD-4545-84C7-61E9178176FE}|BB2Backed\\BB2Backed.csproj|c:\\users\\egor\\desktop\\bb2backed\\bb2backed\\service\\icontentgeneratorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DC16A74-6DFD-4545-84C7-61E9178176FE}|BB2Backed\\BB2Backed.csproj|solutionrelative:bb2backed\\service\\icontentgeneratorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC16A74-6DFD-4545-84C7-61E9178176FE}|BB2Backed\\BB2Backed.csproj|c:\\users\\egor\\desktop\\bb2backed\\bb2backed\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0DC16A74-6DFD-4545-84C7-61E9178176FE}|BB2Backed\\BB2Backed.csproj|solutionrelative:bb2backed\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC16A74-6DFD-4545-84C7-61E9178176FE}|BB2Backed\\BB2Backed.csproj|c:\\users\\egor\\desktop\\bb2backed\\bb2backed\\service\\mockcontentgeneratorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DC16A74-6DFD-4545-84C7-61E9178176FE}|BB2Backed\\BB2Backed.csproj|solutionrelative:bb2backed\\service\\mockcontentgeneratorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC16A74-6DFD-4545-84C7-61E9178176FE}|BB2Backed\\BB2Backed.csproj|c:\\users\\egor\\desktop\\bb2backed\\bb2backed\\dto\\patterndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DC16A74-6DFD-4545-84C7-61E9178176FE}|BB2Backed\\BB2Backed.csproj|solutionrelative:bb2backed\\dto\\patterndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RealGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\Egor\\Desktop\\BB2Backed\\BB2Backed\\Service\\RealGenerator.cs",
+              "RelativeDocumentMoniker": "BB2Backed\\Service\\RealGenerator.cs",
+              "ToolTip": "C:\\Users\\Egor\\Desktop\\BB2Backed\\BB2Backed\\Service\\RealGenerator.cs",
+              "RelativeToolTip": "BB2Backed\\Service\\RealGenerator.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAACoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T11:40:44.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Egor\\Desktop\\BB2Backed\\BB2Backed\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "BB2Backed\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Egor\\Desktop\\BB2Backed\\BB2Backed\\appsettings.Development.json",
+              "RelativeToolTip": "BB2Backed\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-18T18:12:39.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Egor\\Desktop\\BB2Backed\\BB2Backed\\appsettings.json",
+              "RelativeDocumentMoniker": "BB2Backed\\appsettings.json",
+              "ToolTip": "C:\\Users\\Egor\\Desktop\\BB2Backed\\BB2Backed\\appsettings.json",
+              "RelativeToolTip": "BB2Backed\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-18T18:12:40.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Egor\\Desktop\\BB2Backed\\BB2Backed\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BB2Backed\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Egor\\Desktop\\BB2Backed\\BB2Backed\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BB2Backed\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-18T18:08:20.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BB2Backed",
+              "DocumentMoniker": "C:\\Users\\Egor\\Desktop\\BB2Backed\\BB2Backed\\BB2Backed.csproj",
+              "RelativeDocumentMoniker": "BB2Backed\\BB2Backed.csproj",
+              "ToolTip": "C:\\Users\\Egor\\Desktop\\BB2Backed\\BB2Backed\\BB2Backed.csproj",
+              "RelativeToolTip": "BB2Backed\\BB2Backed.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-18T18:07:33.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MockContentGeneratorService.cs",
+              "DocumentMoniker": "C:\\Users\\Egor\\Desktop\\BB2Backed\\BB2Backed\\Service\\MockContentGeneratorService.cs",
+              "RelativeDocumentMoniker": "BB2Backed\\Service\\MockContentGeneratorService.cs",
+              "ToolTip": "C:\\Users\\Egor\\Desktop\\BB2Backed\\BB2Backed\\Service\\MockContentGeneratorService.cs",
+              "RelativeToolTip": "BB2Backed\\Service\\MockContentGeneratorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:02:27.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Egor\\Desktop\\BB2Backed\\BB2Backed\\Program.cs",
+              "RelativeDocumentMoniker": "BB2Backed\\Program.cs",
+              "ToolTip": "C:\\Users\\Egor\\Desktop\\BB2Backed\\BB2Backed\\Program.cs",
+              "RelativeToolTip": "BB2Backed\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:01:30.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PatternDto.cs",
+              "DocumentMoniker": "C:\\Users\\Egor\\Desktop\\BB2Backed\\BB2Backed\\Dto\\PatternDto.cs",
+              "RelativeDocumentMoniker": "BB2Backed\\Dto\\PatternDto.cs",
+              "ToolTip": "C:\\Users\\Egor\\Desktop\\BB2Backed\\BB2Backed\\Dto\\PatternDto.cs",
+              "RelativeToolTip": "BB2Backed\\Dto\\PatternDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T17:49:09.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InequalityDto.cs",
+              "DocumentMoniker": "C:\\Users\\Egor\\Desktop\\BB2Backed\\BB2Backed\\Dto\\InequalityDto.cs",
+              "RelativeDocumentMoniker": "BB2Backed\\Dto\\InequalityDto.cs",
+              "ToolTip": "C:\\Users\\Egor\\Desktop\\BB2Backed\\BB2Backed\\Dto\\InequalityDto.cs",
+              "RelativeToolTip": "BB2Backed\\Dto\\InequalityDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T17:48:42.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EquationDto.cs",
+              "DocumentMoniker": "C:\\Users\\Egor\\Desktop\\BB2Backed\\BB2Backed\\Dto\\EquationDto.cs",
+              "RelativeDocumentMoniker": "BB2Backed\\Dto\\EquationDto.cs",
+              "ToolTip": "C:\\Users\\Egor\\Desktop\\BB2Backed\\BB2Backed\\Dto\\EquationDto.cs",
+              "RelativeToolTip": "BB2Backed\\Dto\\EquationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T17:48:07.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IContentGeneratorService.cs",
+              "DocumentMoniker": "C:\\Users\\Egor\\Desktop\\BB2Backed\\BB2Backed\\Service\\IContentGeneratorService.cs",
+              "RelativeDocumentMoniker": "BB2Backed\\Service\\IContentGeneratorService.cs",
+              "ToolTip": "C:\\Users\\Egor\\Desktop\\BB2Backed\\BB2Backed\\Service\\IContentGeneratorService.cs",
+              "RelativeToolTip": "BB2Backed\\Service\\IContentGeneratorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T17:46:03.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BB2Backed",
+              "DocumentMoniker": "C:\\Users\\Egor\\Desktop\\BB2Backed\\BB2Backed\\BB2Backed.csproj",
+              "RelativeDocumentMoniker": "BB2Backed\\BB2Backed.csproj",
+              "ToolTip": "C:\\Users\\Egor\\Desktop\\BB2Backed\\BB2Backed\\BB2Backed.csproj",
+              "RelativeToolTip": "BB2Backed\\BB2Backed.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-18T17:45:33.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GenerationController.cs",
+              "DocumentMoniker": "C:\\Users\\Egor\\Desktop\\BB2Backed\\BB2Backed\\Controllers\\GenerationController.cs",
+              "RelativeDocumentMoniker": "BB2Backed\\Controllers\\GenerationController.cs",
+              "ToolTip": "C:\\Users\\Egor\\Desktop\\BB2Backed\\BB2Backed\\Controllers\\GenerationController.cs",
+              "RelativeToolTip": "BB2Backed\\Controllers\\GenerationController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T17:36:53.579Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

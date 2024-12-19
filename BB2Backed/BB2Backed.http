@@ -1,0 +1,6 @@
+@BB2Backed_HostAddress = http://localhost:5165
+
+GET {{BB2Backed_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
